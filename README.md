@@ -3,8 +3,10 @@
 
 
 [📥 Dataset Download on Google Drive](https://drive.google.com/file/d/1d1MCt6ZYKv90XZic4_KvOD67RDoi2m5-/view?usp=sharing)
-[📂 Dataset Details & Audio Examples]()
-[💾 Pretrained Models (XLSR-Nes2Net-LA)]()
+
+[📂 Dataset Details & Audio Examples](https://kjsdhsjkhckjsa.github.io/MultiAPI-Spoof-Dataset/)
+
+[💾 Pretrained Models (XLSR-Nes2Net-LA)](https://huggingface.co/jhsdfbsdjfu/Nes2Net_LA)
 
 ---
 
