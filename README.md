@@ -2,7 +2,7 @@
 # 🎤 MultiAPI-Spoof: Multi-API Audio Anti-Spoofing Dataset & Nes2Net-LA
 
 
-[📥 Dataset Download on Google Drive](https://drive.google.com/file/d/1d1MCt6ZYKv90XZic4_KvOD67RDoi2m5-/view?usp=sharing)
+[📥 Download on huggingface](https://huggingface.co/datasets/jhsdfbsdjfu/MultiAPI-Spoof)
 
 [📂 Dataset Details & Audio Examples](https://kjsdhsjkhckjsa.github.io/MultiAPI-Spoof-Dataset/)
 
@@ -104,4 +104,9 @@ If you use this code or dataset, please cite:
 ```
 
 ```
+## 🔏 License 
+
+ The code is released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) license.
+
+---
 
